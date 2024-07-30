@@ -1,0 +1,48 @@
+SQL
+CREATING TABLES:
+
+CREATE TABLE Account(
+    user_id INT NOT NULL AUTO_INCREMENT,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    password VARCHAR(50) NOT NULL,
+    current_balance REAL NOT NULL,
+    display_theme ENUM('default','dark','dark_neutral') NOT NULL,
+    PRIMARY KEY(user_id)
+); 
+CREATE TABLE Category(
+    category_id INT NOT NULL AUTO_INCREMENT,
+    user_id INT NOT NULL,
+    category_name VARCHAR(50) NOT NULL,
+    PRIMARY KEY(category_id),
+    FOREIGN KEY(user_id) REFERENCES account(user_id)
+);
+CREATE TABLE Transactions(
+    transaction_number INT NOT NULL AUTO_INCREMENT,
+    user_id INT NOT NULL,
+    category_id INT NOT NULL,
+    transaction_date DATE NOT NULL,
+    description VARCHAR(50),
+    amount REAL NOT NULL,
+    repeated_status ENUM("not","weekly","monthly") NOT NULL,
+    balance_after_transaction REAL NOT NULL,
+    PRIMARY KEY(transaction_number),
+    FOREIGN KEY(user_id) REFERENCES account(user_id),
+    FOREIGN KEY(category_id) REFERENCES category(category_id)
+);
+CREATE TABLE MonthlyBudget(
+    monthly_budget_id INT NOT NULL AUTO_INCREMENT,
+    user_id INT NOT NULL,
+    month INT(2) NOT NULL,
+    month_budget REAL NOT NULL,
+    red_zone REAL,
+    PRIMARY KEY(monthly_budget_id),
+    FOREIGN KEY(user_id) REFERENCES account(user_id)
+);
+CREATE TABLE CategoryBudget(
+    monthly_budget_id INT NOT NULL,
+    category_id INT NOT NULL,
+    category_budget REAL NOT NULL,
+    PRIMARY KEY(monthly_budget_id, category_id),
+    FOREIGN KEY(monthly_budget_id) REFERENCES monthlybudget(monthly_budget_id),
+    FOREIGN KEY(category_id) REFERENCES category(category_id)
+);

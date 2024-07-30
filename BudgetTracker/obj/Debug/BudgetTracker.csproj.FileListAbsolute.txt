@@ -1,0 +1,73 @@
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\BudgetTracker.exe.config
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\BudgetTracker.exe
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\BudgetTracker.pdb
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\MySql.Data.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\System.Data.SqlXml.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\Google.Protobuf.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\Zstandard.Net.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\BouncyCastle.Crypto.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\Ubiety.Dns.Core.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\Renci.SshNet.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\System.Buffers.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\K4os.Compression.LZ4.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\K4os.Hash.xxHash.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\MySql.Data.xml
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\bin\Debug\System.Data.SqlXml.xml
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.csproj.AssemblyReference.cache
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.Login.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.Properties.Resources.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.csproj.GenerateResource.cache
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.csproj.CoreCompileInputs.cache
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTr.578BD9FB.Up2Date
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.exe
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.pdb
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.AddTransaction.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.Chart.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.Help.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.Main.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.MonthlyRecord.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.MyCategories.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.Register.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1\BudgetTracker\obj\Debug\BudgetTracker.Settings.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\BudgetTracker.exe.config
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\BudgetTracker.exe
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\BudgetTracker.pdb
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\MySql.Data.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\System.Data.SqlXml.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\Google.Protobuf.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\Zstandard.Net.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\BouncyCastle.Crypto.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\Ubiety.Dns.Core.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\Renci.SshNet.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\System.Buffers.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\K4os.Compression.LZ4.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\K4os.Hash.xxHash.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\MySql.Data.xml
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\bin\Debug\System.Data.SqlXml.xml
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.csproj.AssemblyReference.cache
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.AddTransaction.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.Chart.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.Help.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.Login.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.Main.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.MonthlyRecord.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.MyCategories.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.Properties.Resources.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.Register.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.Settings.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.csproj.GenerateResource.cache
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.csproj.CoreCompileInputs.cache
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTr.578BD9FB.Up2Date
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.exe
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.pdb
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.DeleteAccount.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.RemoveCategory.resources
+D:\Sheffield Hallam\Courses\SOFTWARE PROJECTS\STAGE 2\BudgetTracker1 (mysql)\BudgetTracker\obj\Debug\BudgetTracker.EditCategory.resources
